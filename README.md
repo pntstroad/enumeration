@@ -52,7 +52,9 @@ https://github.com/laramies/theHarvester
 https://github.com/jobertabma/virtual-host-discovery
 
 # Platform Identification
-https://github.com/urbanadventurer/WhatWeb
+https://github.com/urbanadventurer/WhatWeb/
+
+**https://github.com/rverton/webanalyze**
 
 # Content Discovery/Directory Bruting
 https://github.com/maurosoria/dirsearch
