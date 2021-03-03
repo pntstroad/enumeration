@@ -6,6 +6,8 @@ https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 # Port Scanning
 https://github.com/robertdavidgraham/masscan
 
+https://github.com/nmap/nmap
+
 # Screenshot
 https://github.com/michenriksen/aquatone
 
@@ -50,6 +52,7 @@ https://github.com/laramies/theHarvester
 https://github.com/jobertabma/virtual-host-discovery
 
 # Platform Identification
+https://github.com/urbanadventurer/WhatWeb
 
 # Content Discovery/Directory Bruting
 https://github.com/maurosoria/dirsearch
